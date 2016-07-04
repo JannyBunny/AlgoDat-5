@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1465230101 source:c:\users\studentai\desktop\gruenhagenjan-rene-5\gruenhagenjan-rene-5\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1465232123 c:\users\studentai\desktop\gruenhagenjan-rene-5\gruenhagenjan-rene-5\queue.h
+	<stdbool.h>
+
+1465234790 source:c:\users\studentai\desktop\gruenhagenjan-rene-5\gruenhagenjan-rene-5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
